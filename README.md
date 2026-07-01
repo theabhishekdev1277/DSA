@@ -7,3 +7,4 @@ It is for my dsa solving progress
 - [4] 242 Valid Anagram
 - [5] 125 Valid Palindrome
 - [6] 344 Reverse String
+- [7] 88 Merge Sorted Array
