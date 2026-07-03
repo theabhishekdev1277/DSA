@@ -8,3 +8,4 @@ It is for my dsa solving progress
 - [5] 125 Valid Palindrome
 - [6] 344 Reverse String
 - [7] 88 Merge Sorted Array
+- [8] 20 Valid Parentheses
