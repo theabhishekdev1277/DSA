@@ -11,3 +11,4 @@ It is for my dsa solving progress
 - [8] 20 Valid Parentheses
 - [9] 155 Min Stack
 - [10] 739 Daily Temperatures
+- [11] 704 Binary Search
