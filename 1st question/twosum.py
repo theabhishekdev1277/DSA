@@ -15,4 +15,40 @@ class Solution(object):
             if need in got:
                 return [got[need],i]
 
-            got[num] = i 
+            got[num] = i #this line actually appends the num and their index position in dictionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
