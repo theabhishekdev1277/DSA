@@ -7,15 +7,15 @@
 
 class Solution(object):
     def twoSum(self, nums, target):
-        got ={}
+        seen ={}
 
         for i, num in enumerate(nums):
             need = target - num 
 
-            if need in got:
-                return [got[need],i]
+            if need in seen:
+                return [seen[need],i]
 
-            got[num] = i #this line actually appends the num and their index position in dictionary
+            seen[num] = i #this line actually appends the num and their index position in dictionary
 
 
 
