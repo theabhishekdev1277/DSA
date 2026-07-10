@@ -18,3 +18,5 @@ It is for my dsa solving progress
 - [15] 19 Remove Nth node from end of the list
 - [16] 143 Reorder List
 - [17] 35 Search Insert Position
+- [18] 33 Search In Rotated Sorted Array
+- [19] 153 Find Minimum in Rotated Sorted Array
